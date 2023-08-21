@@ -1,0 +1,5 @@
+# All .pkl files 
+*.pkl
+
+# Temoorary file
+temp_record.txt
