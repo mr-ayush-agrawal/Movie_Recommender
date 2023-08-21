@@ -1,0 +1,11 @@
+To Run the code we need to (streamlit rum app.py) in the terminal
+
+For making the webpage we are using the module -> StreamLit
+    We are prefering it over the other module like Flask and Django as this is easy to Use
+    The Web page could also be created using those module
+    The Referance video was making using this So I also decided to do that
+
+We are loading the data that we have created while making the model.
+    We have dumped it using pkl, so we will load using similar technique
+
+We are putting the select Box, BUTTON in the webpage
