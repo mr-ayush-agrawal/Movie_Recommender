@@ -1,4 +1,4 @@
-To Run the code we need to (streamlit rum app.py) in the terminal
+To Run the code we need to (streamlit run app.py) in the terminal
 
 For making the webpage we are using the module -> StreamLit
     We are prefering it over the other module like Flask and Django as this is easy to Use
