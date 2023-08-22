@@ -9,3 +9,15 @@ We are loading the data that we have created while making the model.
     We have dumped it using pkl, so we will load using similar technique
 
 We are putting the select Box, BUTTON in the webpage
+
+
+Files for the server :
+    Procfile -> This is used to while deploying the Project
+        This contains the bash script that we have to run in the server
+    .gitignore. / venv -> ignoring all the files created due to virtual envoirnment
+
+    requirements.txt -> Contains all the dependencies for the code.
+        To install all the required module and their versions.
+
+    setup.sh -> Shell script command files
+        This file contains all the command that have to be run in the server's terminal
